@@ -32,7 +32,7 @@ print(f"You have got {kg:.2f} kilos. ")
 
 # Calculate the area of a circle
 # Area = 𝜋 × radius 2
-# # Display the result to two decimal places.
+# Display the result to two decimal places.
 
 radius = float(input(f"Enter the radius of the circle? "))
 area = math.pi * (radius ** 2)
